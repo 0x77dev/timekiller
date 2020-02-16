@@ -1,0 +1,12 @@
+# macOS Stuff
+.DS_Store
+
+# Deps and Cache
+node_modules/
+.cache/
+
+# parcel dist
+dist/
+
+# Logs
+*.log
